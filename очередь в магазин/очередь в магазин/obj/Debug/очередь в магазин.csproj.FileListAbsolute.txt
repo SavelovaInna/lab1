@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\ТиМ программирования\очередь в магазин\очередь в магазин\bin\Debug\очередь в магазин.exe.config
+C:\Users\User\Desktop\ТиМ программирования\очередь в магазин\очередь в магазин\bin\Debug\очередь в магазин.exe
+C:\Users\User\Desktop\ТиМ программирования\очередь в магазин\очередь в магазин\bin\Debug\очередь в магазин.pdb
+C:\Users\User\Desktop\ТиМ программирования\очередь в магазин\очередь в магазин\obj\Debug\очередь в магазин.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ТиМ программирования\очередь в магазин\очередь в магазин\obj\Debug\очередь в магазин.exe
+C:\Users\User\Desktop\ТиМ программирования\очередь в магазин\очередь в магазин\obj\Debug\очередь в магазин.pdb
